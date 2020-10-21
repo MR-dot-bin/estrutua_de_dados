@@ -1,2 +1,2 @@
-# estrutura_de_dados
-Armazenar as estruturas que eu vou treinando e criando.
+# Data Structure and Algorithms
+Repository to store the source about data structure and some more complex algorithms.
